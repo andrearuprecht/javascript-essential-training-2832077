@@ -37,3 +37,5 @@ class Backpack {
 }
 
 export default Backpack;
+
+console.log("Days since acquired:", everydayPack.dateAcquired)
